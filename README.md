@@ -1,5 +1,3 @@
-# vinay
-
 # Joseph Vinay Kumar Polanki - Portfolio
 
 Welcome to my personal portfolio! I'm Joseph Vinay Kumar Polanki, an MSc Business Analysis student with expertise in data analysis, operations management, and strategic planning. With a background in aeronautical engineering and a passion for innovative management techniques, I am dedicated to making meaningful contributions in a dynamic and fast-paced environment.
