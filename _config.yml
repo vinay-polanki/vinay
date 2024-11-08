@@ -8,7 +8,8 @@ source: "."
 markdown: kramdown
 repository:  https://vinay-polanki.github.io/vinay/
 theme: minima
-plugins: - jekyll-readme-index
+plugins:
+   - jekyll-readme-index
 
 
 
