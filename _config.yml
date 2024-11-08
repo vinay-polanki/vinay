@@ -1,6 +1,10 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: "Joseph Vinay Kumar Polanki's Portfolio"
+description: "A portfolio showcasing Joseph Vinay Kumar Polanki's skills, experience, and projects."
 theme: jekyll-theme-minimal
+url: "https://vinay-polanki.github.io"
+author: Joseph Vinay Kumar Polanki
+
+# Enable Markdown rendering and repository links
+markdown: kramdown
+repository: vinay-polanki/vinay-polanki.github.io
+
