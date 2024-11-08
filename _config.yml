@@ -1,12 +1,12 @@
 title: "Joseph Vinay Kumar Polanki's Portfolio"
 description: "A portfolio showcasing Joseph Vinay Kumar Polanki's skills, experience, and projects."
 theme: jekyll-theme-minimal
-url: "https://vinay-polanki.github.io"
+url:  "https://vinay-polanki.github.io/vinay/"
 author: Joseph Vinay Kumar Polanki
 
 # Enable Markdown rendering and repository links
 markdown: kramdown
-repository: vinay-polanki/vinay-polanki.github.io
+repository:  https://vinay-polanki.github.io/vinay/
 theme: minima
 
 
