@@ -3,7 +3,7 @@ description: "A portfolio showcasing Joseph Vinay Kumar Polanki's skills, experi
 theme: jekyll-theme-minimal
 url:  "https://vinay-polanki.github.io/vinay/"
 author: Joseph Vinay Kumar Polanki
-
+source: "."
 # Enable Markdown rendering and repository links
 markdown: kramdown
 repository:  https://vinay-polanki.github.io/vinay/
