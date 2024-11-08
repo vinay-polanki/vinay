@@ -7,5 +7,6 @@ author: Joseph Vinay Kumar Polanki
 # Enable Markdown rendering and repository links
 markdown: kramdown
 repository: vinay-polanki/vinay-polanki.github.io
-path: assets/css/style.scss
+theme: minima
+
 
