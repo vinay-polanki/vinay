@@ -12,8 +12,8 @@ A dedicated Data Engineer with a robust foundation in Business Analytics, Aerona
 Completed in 2022, 240 Credits
 
 ### B.Tech in Aeronautical Engineering
-**Prasad V. Potluri Siddhartha Institute of Technology (PVPSIT)***
-Completed in 2018, 8.11 CGPA
+**Prasad V. Potluri Siddhartha Institute of Technology (PVPSIT)**
+  Completed in 2018, 8.11 CGPA
 
 ### Diploma in Mechanical Engineering
 **State Board of Technical Education**
