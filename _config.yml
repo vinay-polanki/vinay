@@ -17,8 +17,7 @@ header_pages:
 about:
   name: "Joseph Vinay Kumar Polanki"
   image: "/assets/images/profile_picture.heic" 
-  bio: "A dedicated Data Engineer with expertise in data processing, cloud computing, and business analytics. 
-          Passionate about turning data into actionable insights to drive decision-making and organizational growth."
+  bio: "A dedicated Data Engineer with expertise in data processing, cloud computing, and business analytics. Passionate about turning data into actionable insights to drive decision-making and organizational growth."
 
 title: "Joseph Vinay Kumar Polanki's Portfolio"
 description: "A portfolio showcasing Joseph Vinay Kumar Polanki's skills, experience, and projects."
@@ -38,13 +37,13 @@ header_pages:
 # Sidebar customization for About section
 about:
   name: "Joseph Vinay Kumar Polanki"
-  image: "/assets/images/profile-picture.jpg"  # Ensure the image file exists in this directory
+  image: "/assets/images/Profile_picture.heic"  
   bio: "A dedicated Data Engineer with expertise in data processing, cloud computing, and business analytics. 
           Passionate about turning data into actionable insights to drive decision-making and organizational growth."
   social_links:
-    linkedin: "https://www.linkedin.com/in/your-linkedin-username"
-    github: "https://github.com/your-github-username"
-    email: "mailto:your-email@example.com"
+    linkedin: "https://www.linkedin.com/in/j-vinay-k-polanki-28157931b/"
+    github: "https://github.com/vinay-polanki"
+    email: "mailto:vinaypolanki.j@gmail.com"
 
 
 
