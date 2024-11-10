@@ -1,31 +1,14 @@
-title: "Joseph Vinay Kumar Polanki's Portfolio"
-description: "A portfolio showcasing Joseph Vinay Kumar Polanki's skills, experience, and projects."
-theme: jekyll-theme-minimal
-url: "https://vinay-polanki.github.io/vinay/"
-author: Joseph Vinay Kumar Polanki
-source: "."
-repository: "https://github.com/vinay-polanki/vinay"
-markdown: kramdown
-plugins:
-  - jekyll-readme-index
-
-# Custom settings for the "minimal" theme
-header_pages:
-  - index.md
 
 # Sidebar customization for About section
 about:
   name: "Joseph Vinay Kumar Polanki"
-  image: "/assets/images/profile_picture.heic" 
-  bio: "A dedicated Data Engineer with expertise in data processing, cloud computing, and business analytics. Passionate about turning data into actionable insights to drive decision-making and organizational growth."
+  image: "/assets/images/Profile_Picture.heic" 
 
 title: "Joseph Vinay Kumar Polanki's Portfolio"
-description: "A portfolio showcasing Joseph Vinay Kumar Polanki's skills, experience, and projects."
 theme: jekyll-theme-minimal
 url: "https://vinay-polanki.github.io/vinay/"
-author: Joseph Vinay Kumar Polanki
+
 source: "."
-repository: "https://github.com/vinay-polanki/vinay"
 markdown: kramdown
 plugins:
   - jekyll-readme-index
