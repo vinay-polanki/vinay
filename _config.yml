@@ -17,7 +17,8 @@ header_pages:
 about:
   name: "Joseph Vinay Kumar Polanki"
   image: "/assets/images/profile-picture.jpg"  # Make sure the image file is stored in this directory
-  bio: "A dedicated Data Engineer with expertise in data processing, cloud computing, and business analytics. Passionate about turning data into actionable insights to drive decision-making and organizational growth."
+  bio: "A dedicated Data Engineer with expertise in data processing, cloud computing, and business analytics. 
+          Passionate about turning data into actionable insights to drive decision-making and organizational growth."
 
 
 
