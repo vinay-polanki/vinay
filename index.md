@@ -1,5 +1,27 @@
+
+## About Me:
 A dedicated Data Engineer with a robust foundation in Business Analytics, Aeronautical Engineering, and International Business Management, bringing expertise in cloud-based data management, AWS cloud services, and analytical problem-solving. Leveraging advanced studies in Business Analytics and a management degree, I excel in designing, implementing, and maintaining scalable data architectures that support strategic goals. Skilled in cloud-native tools for data storage, ETL processes, and pipeline optimization, I am committed to transforming complex data into actionable insights. My diverse technical and managerial background enables me to deliver impactful, cloud-powered solutions that drive data-driven decision-making and enhance organizational data accessibility.
 
+## Education
+### MSc in Business Analytics
+   **Murray State University**   
+        Ongoing, 27 Credits
+
+### International Business Management
+**Northumbria University**
+Completed in 2022, 240 Credits
+
+### B.Tech in Aeronautical Engineering
+**Prasad V. Potluri Siddhartha Institute of Technology (PVPSIT)***
+Completed in 2018, 8.11 CGPA
+
+### Diploma in Mechanical Engineering
+**State Board of Technical Education**
+Completed in 2015, 77.27%
+
+### SSC (Secondary School Certificate)
+Board of Secondary Education
+Completed in 2012, 7.7 CGPA
 
 - **Email:** [vinaypolanki.j@gmail.com](mailto:vinaypolanki.j@gmail.com)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/joseph-vinay-kumar-polanki-0901901b4)
