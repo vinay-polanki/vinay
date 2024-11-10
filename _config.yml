@@ -13,8 +13,8 @@ header_pages:
 # Sidebar customization for About section
 about:
   name: "Joseph Vinay Kumar Polanki"
-  image: "/assets/images/Profile_Picture.jpg"  # Make sure to use the new file path
-  bio: "A dedicated Data Engineer with expertise in data processing, cloud computing, and business analytics. Passionate about turning data into actionable insights to drive decision-making and organizational growth."
+  image: "assets/images/Profile_Picture.heic" 
+  
   social_links:
     linkedin: "https://www.linkedin.com/in/j-vinay-k-polanki-28157931b/"
     github: "https://github.com/vinay-polanki"
