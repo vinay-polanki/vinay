@@ -1,12 +1,6 @@
-# Joseph Vinay Kumar Polanki - Portfolio
+A dedicated Data Engineer with a robust foundation in Business Analytics, Aeronautical Engineering, and International Business Management, bringing expertise in cloud-based data management, AWS cloud services, and analytical problem-solving. Leveraging advanced studies in Business Analytics and a management degree, I excel in designing, implementing, and maintaining scalable data architectures that support strategic goals. Skilled in cloud-native tools for data storage, ETL processes, and pipeline optimization, I am committed to transforming complex data into actionable insights. My diverse technical and managerial background enables me to deliver impactful, cloud-powered solutions that drive data-driven decision-making and enhance organizational data accessibility.
 
-Welcome to my personal portfolio! I'm Joseph Vinay Kumar Polanki, an MSc Business Analysis student with expertise in data analysis, operations management, and strategic planning. With a background in aeronautical engineering and a passion for innovative management techniques, I am dedicated to making meaningful contributions in a dynamic and fast-paced environment.
 
-## About Me
-
-I am a meticulous and organized individual who is enthusiastic about taking on new challenges in the management field. My diverse experience and strong analytical skills enable me to improve operational efficiency and introduce effective strategies in my work.
-
-- **Location:** Murray, KY, USA
 - **Email:** [vinaypolanki.j@gmail.com](mailto:vinaypolanki.j@gmail.com)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/joseph-vinay-kumar-polanki-0901901b4)
 - **GitHub:** [GitHub Profile](https://github.com/vinay-polanki?tab=repositories)
