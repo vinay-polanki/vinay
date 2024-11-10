@@ -1,15 +1,24 @@
 title: "Joseph Vinay Kumar Polanki's Portfolio"
 description: "A portfolio showcasing Joseph Vinay Kumar Polanki's skills, experience, and projects."
 theme: jekyll-theme-minimal
-url:  "https://vinay-polanki.github.io/vinay/"
+url: "https://vinay-polanki.github.io/vinay/"
 author: Joseph Vinay Kumar Polanki
 source: "."
-# Enable Markdown rendering and repository links
+repository: "https://github.com/vinay-polanki/vinay"
 markdown: kramdown
-repository:  https://vinay-polanki.github.io/vinay/
-theme: minima
 plugins:
-   - jekyll-readme-index
+  - jekyll-readme-index
+
+# Custom settings for the "minimal" theme
+header_pages:
+  - index.md
+
+# Sidebar customization for About section
+about:
+  name: "Joseph Vinay Kumar Polanki"
+  image: "/assets/images/profile-picture.jpg"  # Make sure the image file is stored in this directory
+  bio: "A dedicated Data Engineer with expertise in data processing, cloud computing, and business analytics. Passionate about turning data into actionable insights to drive decision-making and organizational growth."
+
 
 
 
