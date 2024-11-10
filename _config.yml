@@ -1,25 +1,14 @@
-title: "Joseph Vinay Kumar Polanki's Portfolio"
+title: Joseph Vinay Kumar Polanki
+logo: assets/images/Profile_Picture.heic
 theme: jekyll-theme-minimal
-url: "https://vinay-polanki.github.io/vinay/"
-author: Joseph Vinay Kumar Polanki
-markdown: kramdown
-plugins:
-  - jekyll-readme-index
 
-# Custom settings for the "minimal" theme
-header_pages:
-  - index.md
 
-# Sidebar customization for About section
+# Sidebar customization
 about:
   name: "Joseph Vinay Kumar Polanki"
-  image: "assets/images/Profile_Picture.heic" 
-  
+  bio: "A dedicated Data Engineer with expertise in data processing, cloud computing, and business analytics.
+        Passionate about turning data into actionable insights to drive decision-making and organizational growth."
   social_links:
     linkedin: "https://www.linkedin.com/in/j-vinay-k-polanki-28157931b/"
     github: "https://github.com/vinay-polanki"
     email: "mailto:vinaypolanki.j@gmail.com"
-
-
-
-
