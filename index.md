@@ -1,4 +1,4 @@
-<p style="color: darkblue; font-weight: bold;"> J Vinay K Polanki's Portfolio </p>
+<h1 style="color: darkblue; font-weight: bold;">J Vinay K Polanki's Portfolio</h1>
 
 
 ### About Me:
