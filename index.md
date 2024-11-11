@@ -16,10 +16,10 @@ A dedicated Data Engineer with a robust foundation in Business Analytics, Aerona
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" style="width:25px;">
   </a>
 </div>
-<a>
-
+<div><a>
   
 </a>
+</div>
 
 ## Education
 ### MSc in Business Analytics
