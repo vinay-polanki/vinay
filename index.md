@@ -38,6 +38,7 @@ A dedicated Data Engineer with a robust foundation in Business Analytics, Aerona
 ### Diploma in Mechanical Engineering
 **State Board of Technical Education**
 - Completed in 2015, 77.27%
+  
 ---
 
 ## Skills
@@ -57,6 +58,7 @@ A dedicated Data Engineer with a robust foundation in Business Analytics, Aerona
   - **Operating Systems**: Windows, iOS
   - **Productivity**: G-Suite, MS Office, Trello
   - **Design Software**: AutoCAD, CATIA V5 R15
+    
 ---
 
 ## Work Experience
