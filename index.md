@@ -5,6 +5,7 @@ A dedicated Data Engineer with a robust foundation in Business Analytics, Aerona
 ### MSc in Business Analytics
    **Murray State University**   
         Ongoing, 27 Credits
+      
 
 ### International Business Management
 **Northumbria University**
