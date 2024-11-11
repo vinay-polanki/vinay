@@ -6,10 +6,10 @@ A dedicated Data Engineer with a robust foundation in Business Analytics, Aerona
 ## Contact_Information
 <!-- Social Links -->
 <div style="margin-top: 50px;">
-  <a href="https://www.linkedin.com/in/j-vinay-k-polanki-28157931b/" target="_blank" style="margin-right: 150px;">
+  <a href="https://www.linkedin.com/in/j-vinay-k-polanki-28157931b/" target="_blank" style="margin-right: 50px;">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width:25px;">
   </a>
-  <a href="https://github.com/vinay-polanki" target="_blank" style="margin-right: 150px;">
+  <a href="https://github.com/vinay-polanki" target="_blank" style="margin-right: 50px;">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" style="width:25px;">
   </a>
   <a href="mailto:vinaypolanki.j@gmail.com">
