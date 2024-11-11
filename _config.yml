@@ -1,7 +1,7 @@
 title: Joseph Vinay Kumar Polanki
 logo: "assets/images/Profile_Picture.jpg"
 theme: jekyll-theme-minimal
-show_downloads: true
+show_downloads: false  # Disable default downloads section
 
 # Sidebar customization
 about:
@@ -12,6 +12,21 @@ about:
     linkedin: "https://www.linkedin.com/in/j-vinay-k-polanki-28157931b/"
     github: "https://github.com/vinay-polanki"
     email: "mailto:vinaypolanki.j@gmail.com"
+    
+# Custom sidebar links (Gmail, GitHub, LinkedIn, Resume)
+custom_sidebar:
+  - name: "Gmail"
+    url: "mailto:vinaypolanki.j@gmail.com"
+    icon: "assets/images/gmail_logo.jpeg"  # You can upload a Gmail logo image
+  - name: "GitHub"
+    url: "https://github.com/vinay-polanki"
+    icon: "assets/images/git_logo.jpg"  # You can upload a GitHub logo image
+  - name: "LinkedIn"
+    url: "https://www.linkedin.com/in/j-vinay-k-polanki-28157931b/"
+    icon: "assets/images/linkedin_logo.jpeg"  # You can upload a LinkedIn logo image
+  - name: "Resume"
+    url: "assets/files/Resume_Joseph_Vinay_Kumar_Polanki.pdf"  # Path to your resume file
+    icon: "assets/images/Resume_logo.jpg"  # You can upload a Resume logo image
 
 css:
   - /assets/styles.css
