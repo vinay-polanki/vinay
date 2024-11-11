@@ -2,6 +2,8 @@ title: Joseph Vinay Kumar Polanki
 logo: "assets/images/Profile_Picture.jpg"
 theme: jekyll-theme-minimal
 show_donloads: true
+css:
+  - "/assets/styles.css"
 
 # Sidebar customization
 about:
