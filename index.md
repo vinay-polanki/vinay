@@ -179,12 +179,20 @@ These projects showcase my expertise in data science, business analysis, and clo
 
 ---
 
-## Languages
-- **English**
-- **Hindi**
-- **Tamil**
-- **Telugu**
-
+## Contact_Information
+custom_sidebar:
+  - name: "Gmail"
+    url: "mailto:vinaypolanki.j@gmail.com"
+    icon: "<img src='assets/images/gmail_logo.jpeg' alt='Gmail' style='width:24px; height:24px; margin-right:10px;'/>"
+  - name: "GitHub"
+    url: "https://github.com/vinay-polanki"
+    icon: "<img src='assets/images/git_logo.jpg' alt='GitHub' style='width:24px; height:24px; margin-right:10px;'/>"
+  - name: "LinkedIn"
+    url: "https://www.linkedin.com/in/j-vinay-k-polanki-28157931b/"
+    icon: "<img src='assets/images/linkedin_logo.jpeg' alt='LinkedIn' style='width:24px; height:24px; margin-right:10px;'/>"
+  - name: "Resume"
+    url: "assets/files/Resume_Joseph_Vinay_Kumar_Polanki.pdf"
+    icon: "<img src='assets/images/Resume_logo.jpg' alt='Resume' style='width:24px; height:24px; margin-right:10px;'/>"
 ---
 
 ## Additional Information
