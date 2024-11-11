@@ -3,30 +3,5 @@ logo: "assets/images/Profile_Picture.jpg"
 theme: jekyll-theme-minimal
 show_downloads: false  # Disable default downloads section
 
-# Sidebar customization
-about:
-  name: "Joseph Vinay Kumar Polanki"
-  bio: "A dedicated Data Engineer with expertise in data processing, cloud computing, and business analytics.
-        Passionate about turning data into actionable insights to drive decision-making and organizational growth."
-  social_links:
-    linkedin: "https://www.linkedin.com/in/j-vinay-k-polanki-28157931b/"
-    github: "https://github.com/vinay-polanki"
-    email: "mailto:vinaypolanki.j@gmail.com"
-
-# Custom sidebar links (Gmail, GitHub, LinkedIn, Resume)
-custom_sidebar:
-  - name: "Gmail"
-    url: "mailto:vinaypolanki.j@gmail.com"
-    icon: "<img src='assets/images/gmail_logo.jpeg' alt='Gmail' style='width:24px; height:24px; margin-right:10px;'/>"
-  - name: "GitHub"
-    url: "https://github.com/vinay-polanki"
-    icon: "<img src='assets/images/git_logo.jpg' alt='GitHub' style='width:24px; height:24px; margin-right:10px;'/>"
-  - name: "LinkedIn"
-    url: "https://www.linkedin.com/in/j-vinay-k-polanki-28157931b/"
-    icon: "<img src='assets/images/linkedin_logo.jpeg' alt='LinkedIn' style='width:24px; height:24px; margin-right:10px;'/>"
-  - name: "Resume"
-    url: "assets/files/Resume_Joseph_Vinay_Kumar_Polanki.pdf"
-    icon: "<img src='assets/images/Resume_logo.jpg' alt='Resume' style='width:24px; height:24px; margin-right:10px;'/>"
-
 css:
   - /assets/styles.css
