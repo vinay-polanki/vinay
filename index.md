@@ -180,19 +180,19 @@ These projects showcase my expertise in data science, business analysis, and clo
 ---
 
 ## Contact_Information
-custom_sidebar:
-  - name: "Gmail"
-    url: "mailto:vinaypolanki.j@gmail.com"
-    icon: "<img src='assets/images/gmail_logo.jpeg' alt='Gmail' style='width:24px; height:24px; margin-right:10px;'/>"
-  - name: "GitHub"
-    url: "https://github.com/vinay-polanki"
-    icon: "<img src='assets/images/git_logo.jpg' alt='GitHub' style='width:24px; height:24px; margin-right:10px;'/>"
-  - name: "LinkedIn"
-    url: "https://www.linkedin.com/in/j-vinay-k-polanki-28157931b/"
-    icon: "<img src='assets/images/linkedin_logo.jpeg' alt='LinkedIn' style='width:24px; height:24px; margin-right:10px;'/>"
-  - name: "Resume"
-    url: "assets/files/Resume_Joseph_Vinay_Kumar_Polanki.pdf"
-    icon: "<img src='assets/images/Resume_logo.jpg' alt='Resume' style='width:24px; height:24px; margin-right:10px;'/>"
+<!-- Social Links -->
+  <div style="margin-top: 10px;">
+    <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank" style="margin-right: 10px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width:25px;">
+    </a>
+    <a href="https://github.com/your-github-username" target="_blank" style="margin-right: 10px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" style="width:25px;">
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" style="width:25px;">
+    </a>
+  </div>
+</div>
 ---
 
 ## Additional Information
