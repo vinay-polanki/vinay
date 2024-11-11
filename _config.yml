@@ -3,5 +3,7 @@ logo: "assets/images/Profile_Picture.jpg"
 theme: jekyll-theme-minimal
 show_downloads: false  # Disable default downloads section
 
+discription: "Data Engineer with expertise in engineering, business analytics, and management, using cloud technologies to drive impactful data solutions."
+
 css:
   - /assets/styles.css
