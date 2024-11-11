@@ -74,6 +74,8 @@ A dedicated Data Engineer with a robust foundation in Business Analytics, Aerona
 **Project Brief:**  
 This project explores the impact of aviation laws on airport supply chain management (SCM), with a focus on fuel supply, maintenance services, ground operations, and passenger transportation. Using a quantitative, survey-based approach, the study collects data to examine the effectiveness of these regulations in supporting airport SCM. Data analysis in SPSS, including correlation and regression techniques, reveals how aviation policies shape SCM practices, identifying both supportive and problematic policies.
 
+<img src="assets/images/Processes_Dissertation.jpg">
+
 **Key Findings:**  
 - Many aviation policies positively impact SCM, though certain regulatory gaps present operational challenges within airports.  
 - Addressing these gaps can enhance supply chain efficiency, benefiting stakeholders and policymakers focused on optimizing airport operations.
@@ -83,6 +85,8 @@ This project explores the impact of aviation laws on airport supply chain manage
 ### McDonald’s Marketing, Sustainability, and Corporate Social Responsibility Strategies
 **Project Brief:**  
 This project examines McDonald’s transformation from a small hamburger stand into a global fast-food icon, analyzing its marketing, sustainability, and corporate social responsibility (CSR) strategies. McDonald’s efficient service, affordable meals, and cultural adaptations contributed to its global success, but environmental impacts have raised concerns.
+
+<img src="assets/images/Mc_D.jpg" alt="5P's Of McD">
 
 **Key Findings and Recommendations:**  
 - McDonald’s has responded to criticism by adopting sustainable practices, such as recyclable packaging and sustainable beef production.
