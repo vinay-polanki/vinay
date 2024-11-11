@@ -12,21 +12,21 @@ about:
     linkedin: "https://www.linkedin.com/in/j-vinay-k-polanki-28157931b/"
     github: "https://github.com/vinay-polanki"
     email: "mailto:vinaypolanki.j@gmail.com"
-    
+
 # Custom sidebar links (Gmail, GitHub, LinkedIn, Resume)
 custom_sidebar:
   - name: "Gmail"
     url: "mailto:vinaypolanki.j@gmail.com"
-    icon: "assets/images/gmail_logo.jpeg"  # You can upload a Gmail logo image
+    icon: "<img src='assets/images/gmail_logo.jpeg' alt='Gmail' style='width:24px; height:24px; margin-right:10px;'/>"
   - name: "GitHub"
     url: "https://github.com/vinay-polanki"
-    icon: "assets/images/git_logo.jpg"  # You can upload a GitHub logo image
+    icon: "<img src='assets/images/git_logo.jpg' alt='GitHub' style='width:24px; height:24px; margin-right:10px;'/>"
   - name: "LinkedIn"
     url: "https://www.linkedin.com/in/j-vinay-k-polanki-28157931b/"
-    icon: "assets/images/linkedin_logo.jpeg"  # You can upload a LinkedIn logo image
+    icon: "<img src='assets/images/linkedin_logo.jpeg' alt='LinkedIn' style='width:24px; height:24px; margin-right:10px;'/>"
   - name: "Resume"
-    url: "assets/files/Resume_Joseph_Vinay_Kumar_Polanki.pdf"  # Path to your resume file
-    icon: "assets/images/Resume_logo.jpg"  # You can upload a Resume logo image
+    url: "assets/files/Resume_Joseph_Vinay_Kumar_Polanki.pdf"
+    icon: "<img src='assets/images/Resume_logo.jpg' alt='Resume' style='width:24px; height:24px; margin-right:10px;'/>"
 
 css:
   - /assets/styles.css
