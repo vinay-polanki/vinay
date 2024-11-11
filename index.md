@@ -16,37 +16,28 @@ A dedicated Data Engineer with a robust foundation in Business Analytics, Aerona
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" style="width:25px;">
   </a>
 </div>
-<div><a>
+<p>
+
   
-</a>
-</div>
+</p>
 
 ## Education
 ### MSc in Business Analytics
    **Murray State University**   
-        Ongoing, 27 Credits
+      -  Ongoing, 27 Credits
       
 
 ### International Business Management
 **Northumbria University**
-Completed in 2022, 240 Credits
+- Completed in 2022, 240 Credits
 
 ### B.Tech in Aeronautical Engineering
 **Prasad V. Potluri Siddhartha Institute of Technology (PVPSIT)**
-  Completed in 2018, 8.11 CGPA
+  - Completed in 2018, 8.11 CGPA
 
 ### Diploma in Mechanical Engineering
 **State Board of Technical Education**
-Completed in 2015, 77.27%
-
-### SSC (Secondary School Certificate)
-Board of Secondary Education
-Completed in 2012, 7.7 CGPA
-
-- **Email:** [vinaypolanki.j@gmail.com](mailto:vinaypolanki.j@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/joseph-vinay-kumar-polanki-0901901b4)
-- **GitHub:** [GitHub Profile](https://github.com/vinay-polanki?tab=repositories)
-
+- Completed in 2015, 77.27%
 ---
 
 ## Skills
@@ -58,12 +49,14 @@ Completed in 2012, 7.7 CGPA
 - Evolved Managerial Skills
 
 ### Technical Skills
-- Data Presentation (Tableau)
-- Programming: R, SQL, Python
-- Operating Systems: Windows, macOS
-- G-Suite, MS Office, Trello
-- Auto-CAD, CATIA V5 R15
-
+- **Data Visualization**: Tableau
+- **Programming**: Python, R, SQL
+- **Cloud**: AWS, GCP
+- **ETL**: SSIS
+- **Web Development**: HTML
+- **Operating Systems**: Windows, iOS
+- **Productivity**: G-Suite, MS Office, Trello
+- **Design Software**: AutoCAD, CATIA V5 R15
 ---
 
 ## Work Experience
@@ -163,8 +156,8 @@ This project involved creating and hosting a static website for Colours Boutique
 ---
 
 ### Numerical Investigation of Flow Characteristics on Missile Subjected to Various Fin Configurations
-**Published In:**  
-International Journal for Research and Development in Technology (IJRDT), Volume 9, Issue 6, June 2018
+**Published:**  [Read the publication here.](https://www.ijrdt.org/full_paper/33843/19/NUMERICAL-INVESTIGATION-OF-FLOW-CHARACTERISTICS-ON-MISSILE-SUBJECTED-TO-VARIOUS-FIN-CONFIGURATIONS)
+- International Journal for Research and Development in Technology (IJRDT), Volume 9, Issue 6, June 2018
 
 **Project Brief:**  
 This research project analyzed the aerodynamic flow characteristics around missiles with varying fin configurations. Using computational fluid dynamics (CFD) tools, simulations were conducted to test drag, lift, and pressure distribution across various designs.
@@ -179,30 +172,28 @@ These projects showcase my expertise in data science, business analysis, and clo
 
 --- 
 
-
-
-
----
 ---
 
-## Certifications & Awards
+## Awards and Certifications
+### Awards:
+-	Gold Medalist in District-Level JUDO Competition (2017)
+-	First Place in Model Exhibition at National-Level Technical Fest, Dhanekula College of Engineering
+-	Second Place in College-Level Technical Quiz Competition
 
-- **Certifications:**
-  - Google Analytics for Business
-  - Lean Six Sigma White Belt (MSI)
-  - Project Management Essentials Certification (MSI)
-  - Digital Marketing (IAB Europe)
-  - Technology Consulting Virtual Internship (Forage)
+### Certifications:
+-	Data Studio from Google Analytics for Business
+-	Google Analytics for Beginners from Google Analytics for Business
+-	Lean Six Sigma White Belt – Management and Strategy Institute (MSI)
+-	Project Management Essential Certification (PMEC) – MSI
+-	Digital Marketing and Media – IAB Europe
+-	Introduction to Data Science – Cognitive
+-	Managing Projects with Digital Tools – Google Digital Academy (Skillshop)
+-	Technology Consulting Virtual Internship – Forage (March 2021)
+-	APAC Investment Banking Virtual Reality Intern Experience – Forage
 
-- **Awards:**
-  - Gold Medalist in District-Level Judo Competition
-  - 1st Place in Model Exhibition at National Technical Fest
 
 ---
 
 ## Additional Information
 
-- **Willing to Relocate**
-- **Date of Birth:** 05 June 1997
-
-Thank you for visiting my portfolio! Feel free to reach out to me for any collaborative opportunities or inquiries.
+**Thank you for visiting my portfolio!** I’m always open to exploring new opportunities and collaborations. If you’re interested in connecting, have inquiries, or want to discuss potential projects, please feel free to reach out.
