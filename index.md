@@ -119,6 +119,8 @@ This project outlines Sainsbury’s strategy for expanding into the Singaporean 
 **Project Brief:**  
 This project showcases a data analytics dashboard developed in Excel to evaluate and enhance team performance for Newcastle United Football Club. The dashboard leverages player performance data to support decisions in player selection, contract renewals, and injury management.
 
+<img src="assets/images/NUFC.jpg" alt="NUFC Performance chart" alignment-center>
+
 **Key Insights:**  
 - Data visualizations help identify underutilized talent, injury histories, and areas for improvement.
 - Demonstrates the application of data analytics to real-world sports management scenarios.
