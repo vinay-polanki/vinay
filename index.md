@@ -49,14 +49,14 @@ A dedicated Data Engineer with a robust foundation in Business Analytics, Aerona
 - Evolved Managerial Skills
 
 ### Technical Skills
-- **Data Visualization**: Tableau
-- **Programming**: Python, R, SQL
-- **Cloud**: AWS, GCP
-- **ETL**: SSIS
-- **Web Development**: HTML
-- **Operating Systems**: Windows, iOS
-- **Productivity**: G-Suite, MS Office, Trello
-- **Design Software**: AutoCAD, CATIA V5 R15
+  - **Data Visualization**: Tableau
+  - **Programming**: Python, R, SQL
+  - **Cloud**: AWS, GCP
+  - **ETL**: SSIS
+  - **Web Development**: HTML
+  - **Operating Systems**: Windows, iOS
+  - **Productivity**: G-Suite, MS Office, Trello
+  - **Design Software**: AutoCAD, CATIA V5 R15
 ---
 
 ## Work Experience
