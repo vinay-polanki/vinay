@@ -1,9 +1,7 @@
 title: Joseph Vinay Kumar Polanki
 logo: "assets/images/Profile_Picture.jpg"
 theme: jekyll-theme-minimal
-show_donloads: true
-css:
-  - "/assets/styles.css"
+show_downloads: true
 
 # Sidebar customization
 about:
@@ -14,3 +12,9 @@ about:
     linkedin: "https://www.linkedin.com/in/j-vinay-k-polanki-28157931b/"
     github: "https://github.com/vinay-polanki"
     email: "mailto:vinaypolanki.j@gmail.com"
+
+
+
+
+css:
+  - "/assets/styles.css"
