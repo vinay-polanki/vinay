@@ -1,1 +1,26 @@
+/* styles.css */
+/* Logo Styling */
+.header-logo {
+  width: 80px;          /* Adjust logo size */
+  height: 80px;         /* Adjust logo size */
+  border-radius: 50%;   /* Circular logo */
+  margin-right: 10px;   /* Space between logo and text */
+  display: inline-block; /* Keeps logo and name on the same line */
+}
+
+/* About Section Styling */
+.about-section {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.about-section h1 {
+  font-size: 2rem;
+  color: #333;
+}
+
+.about-section p {
+  font-size: 1rem;
+  color: #555;
+}
 
