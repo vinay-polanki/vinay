@@ -173,7 +173,8 @@ This project involved creating and hosting a static website for Colours Boutique
 ---
 
 ### Numerical Investigation of Flow Characteristics on Missile Subjected to Various Fin Configurations
-**Published:**  [Read the publication here.](https://www.ijrdt.org/full_paper/33843/19/NUMERICAL-INVESTIGATION-OF-FLOW-CHARACTERISTICS-ON-MISSILE-SUBJECTED-TO-VARIOUS-FIN-CONFIGURATIONS)
+**Published:** <a href="https://www.ijrdt.org/full_paper/33843/19/NUMERICAL-INVESTIGATION-OF-FLOW-CHARACTERISTICS-ON-MISSILE-SUBJECTED-TO-VARIOUS-FIN-CONFIGURATIONS" target="_blank">Read the publication here.</a>
+
 - International Journal for Research and Development in Technology (IJRDT), Volume 9, Issue 6, June 2018
 
 **Project Brief:**  
